@@ -1,4 +1,4 @@
-// Usage: deno run --allow-read --allow-write --allow-run _tools/copy-to-sd-card.ts (--source path) (--target path) --dry-run 
+// Usage: deno run --allow-read --allow-write --allow-run _tools/copy-to-sd-card.ts (--source path) (--target path) (--dry-run)
 
 import { getSDCardDirectory, range, pad, copyMp3Files, parseArguments, getDirectoryNames } from './utils/index.ts';
 
