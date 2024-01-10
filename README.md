@@ -16,18 +16,18 @@ This script facilitates the automatic downloading of episodes from one or more p
 
 This is the content of the box as I have created it, which can of course be customised to your own requirements. Only content with a free licence is included in this repository.
 
-| Index | Name                    | Type               | Modus |
-|-------|-------------------------|--------------------|-------|
-| 01    | MausMix                 | Podcast            |       |
-| 02    | Gute Nacht mit der Maus | Podcast            |       |
-| 03    | Die Maus zum Hören      | Podcast            |       |
-| 04    | MausHoerspiel           | Podcast/Audio play |       |
-| 05    | Unser Sandmännchen      | Podcast/Audio play |       |
-| 06    | Bippo, der Elefant      | Audio play         |       |
-| 07    | Ducks sounds            | Sound clips        |       |
-| 08    | Rooster sounds          | Sound clips        |       |
-| 09    | Hen sounds              | Sound clips        |       |
-| 10    | Dog sounds              | Sound clips        |       |
-| 11    | Cat sounds              | Sound clips        |       |
-| 12    | Cow sounds              | Sound clips        |       |
-| 13    | Sheep sounds            | Sound clips        |       |
+| Index | Name                                                                                         | Type               | Modus |
+|-------|----------------------------------------------------------------------------------------------|--------------------|-------|
+| 01    | [MausMix](https://www.wdrmaus.de/hoeren/podcast_musik.php5)                                  | Podcast            |       |
+| 02    | [Gute Nacht mit der Maus](https://www.wdrmaus.de/hoeren/gute_nacht_mit_der_maus.php5)        | Podcast            |       |
+| 03    | [Die Maus zum Hören](https://www.wdrmaus.de/hoeren/podcasts.php5)                            | Podcast            |       |
+| 04    | [MausHoerspiel](https://www.wdrmaus.de/hoeren/hoerspiel.php5)                                | Podcast/Audio play |       |
+| 05    | [Unser Sandmännchen](https://www.ardaudiothek.de/sendung/unser-sandmaennchen/23667030/)      | Podcast/Audio play |       |
+| 06    | [Bippo, der Elefant](https://www.hoerspielprojekt.de/music/bippo-der-elefant/)               | Audio play         |       |
+| 07    | Ducks sounds                                                                                 | Sound clips        |       |
+| 08    | Rooster sounds                                                                               | Sound clips        |       |
+| 09    | Hen sounds                                                                                   | Sound clips        |       |
+| 10    | Dog sounds                                                                                   | Sound clips        |       |
+| 11    | Cat sounds                                                                                   | Sound clips        |       |
+| 12    | Cow sounds                                                                                   | Sound clips        |       |
+| 13    | Sheep sounds                                                                                 | Sound clips        |       |
