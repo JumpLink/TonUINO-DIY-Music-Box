@@ -16,21 +16,21 @@ This script simplifies the process of automatically downloading episodes from on
 
 Here is a list of the included audio content in this project, which you can customize to your liking. All included content is licensed under a free license.
 
-| Index | Name                                                                                        | Type               | Mode  |
-|-------|---------------------------------------------------------------------------------------------|--------------------|-------|
-| 01    | [MausMix](https://www.wdrmaus.de/hoeren/podcast_musik.php5)                                 | Podcast            |       |
-| 02    | [Gute Nacht mit der Maus](https://www.wdrmaus.de/hoeren/gute_nacht_mit_der_maus.php5)       | Podcast            |       |
-| 03    | [Die Maus zum Hören](https://www.wdrmaus.de/hoeren/podcasts.php5)                           | Podcast            |       |
-| 04    | [MausHoerspiel](https://www.wdrmaus.de/hoeren/hoerspiel.php5)                               | Podcast/Audio play |       |
-| 05    | [Unser Sandmännchen](https://www.ardaudiothek.de/sendung/unser-sandmaennchen/23667030/)     | Podcast/Audio play |       |
-| 06    | [Bippo, der Elefant](https://www.hoerspielprojekt.de/music/bippo-der-elefant/)              | Audio play         |       |
-| 07    | Duck sounds                                                                                 | Sound clips        |       |
-| 08    | Rooster sounds                                                                             | Sound clips        |       |
-| 09    | Hen sounds                                                                                 | Sound clips        |       |
-| 10    | Dog sounds                                                                                 | Sound clips        |       |
-| 11    | Cat sounds                                                                                 | Sound clips        |       |
-| 12    | Cow sounds                                                                                 | Sound clips        |       |
-| 13    | Sheep sounds                                                                               | Sound clips        |       |
+| Index | Name                                                                                        | Type               | Mode      |
+|-------|---------------------------------------------------------------------------------------------|--------------------|-----------|
+| 01    | [MausMix](https://www.wdrmaus.de/hoeren/podcast_musik.php5)                                 | Podcast            |           |
+| 02    | [Gute Nacht mit der Maus](https://www.wdrmaus.de/hoeren/gute_nacht_mit_der_maus.php5)       | Podcast            |           |
+| 03    | [Die Maus zum Hören](https://www.wdrmaus.de/hoeren/podcasts.php5)                           | Podcast            |           |
+| 04    | [MausHoerspiel](https://www.wdrmaus.de/hoeren/hoerspiel.php5)                               | Podcast/Audio play |           |
+| 05    | [Unser Sandmännchen](https://www.ardaudiothek.de/sendung/unser-sandmaennchen/23667030/)     | Podcast/Audio play |           |
+| 06    | [Bippo, der Elefant](https://www.hoerspielprojekt.de/music/bippo-der-elefant/)              | Audio play         | Audiobook |
+| 07    | Duck sounds                                                                                 | Sound clips        | Audio Play |
+| 08    | Rooster sounds                                                                              | Sound clips        | Audio Play |
+| 09    | Hen sounds                                                                                  | Sound clips        | Audio Play |
+| 10    | Dog sounds                                                                                  | Sound clips        | Audio Play |
+| 11    | Cat sounds                                                                                  | Sound clips        | Audio Play |
+| 12    | Cow sounds                                                                                  | Sound clips        | Audio Play |
+| 13    | Sheep sounds                                                                                | Sound clips        | Audio Play |
 
 ## Operation
 
@@ -43,7 +43,7 @@ See also [original source of the user manual](https://discourse.voss.earth/t/ueb
 2. Choose a folder using the volume buttons (even if you're creating an admin card) and press Play.
 
 3. Set the playback mode using the volume buttons and press Play.
-   - Audiobook mode (plays a random file from the folder with forward and backward buttons disabled): Play -> OK.
+   - Audio Play mode (plays a random file from the folder with forward and backward buttons disabled): Play -> OK.
    - Album mode (plays all files in the folder): Play -> OK.
    - Party mode (plays files from the folder in random order): Play -> OK.
    - Single mode (plays a specific file from the folder): Play -> Select file -> Play -> OK.

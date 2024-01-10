@@ -13,8 +13,9 @@ if(!targetDir) {
   Deno.exit(1);
 }
 
+const systemFolders = ["advert", "mp3"];
 const directories = await getDirectoryNames(sourceDir);
-const foldersToSearch = [...range().map(n => pad(n, 2)), "advert", "mp3"].sort((a, b) => a.localeCompare(b));
+const foldersToSearch = [...systemFolders, ...range().map(n => pad(n, 2)), "advert", "mp3"]
 
 
 for (const sourceFolder of foldersToSearch) {
@@ -24,7 +25,7 @@ for (const sourceFolder of foldersToSearch) {
     continue;
   }
 
-  await copyMp3Files(sourceDir, foundDir, targetDir, dryRun, ["advert", "mp3"]);
+  await copyMp3Files(sourceDir, foundDir, targetDir, dryRun, systemFolders);
 }
 
 console.log("Done!");
